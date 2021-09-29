@@ -1,3 +1,3 @@
 # angular
 
-király vagyok
+lol
